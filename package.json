@@ -1,0 +1,17 @@
+{
+  "name": "ninja",
+  "version": "1.0.0",
+  "description": "ninja trocas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandre Silva",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "express": "^4.13.0",
+    "mongoose": "^4.0.6",
+    "ser": "^0.1.2"
+  }
+}
